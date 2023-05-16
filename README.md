@@ -1,5 +1,9 @@
 ﻿# parsley-documetation
  **This is a help guide line for parsley javascript framework [http://parsleyjs.org/doc/index.html]**
+ - First we need to add parsley library from web application. 
+ - Copy parsley.js and parsley.css in assets folder and then link resource in html file.
+ - 
+ 
 Frontend form validation
 Parsley is a javascript form validation library. It helps you provide your users with feedback on their form submission before sending it to your server. It saves you bandwidth, server load and it saves time for your users.
 Javascript form validation is not necessary, and if used, it does not replace strong backend server validation.
